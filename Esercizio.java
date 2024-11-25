@@ -1,6 +1,6 @@
 //LEGGERE LE ISTRUZIONI NEL FILE README.md
 
-//Import di Classi Java necessari al funzionamento del programma
+//Import di Classi Java necessarie al funzionamento del programma
 import java.util.Scanner;
 
 // Classe principale, con metodo main
@@ -8,7 +8,7 @@ class Esercizio {
     // Il programma parte con una chiamata a main().
     public static void main(String args[])
     {
-        //Variabili programma
+        //Variabili del programma
         String nome;
 
         //Creo l'oggetto in per l'input da tastiera
