@@ -12,6 +12,10 @@
 - [Source Control] sulla sinistra
 - **scrivere il messaggio** "Consegna" **nella casella di testo Message**
 - [Commit & Push] dal pulsante dropdown
+<br/><img alt="commit" src="_doc/commit.png" width="60%" /><br/>
+- **Copiare il link di Esercizio.java e consegnarlo su classroom**
+<br/><img alt="share" src="_doc/share.png" width="70%" /><br/>
+
 
 **Prof, ho un problema...**
 - Non riesco ad eseguire il programma, ottengo un errore del tipo "non trovo il file launch.json"
